@@ -9,3 +9,5 @@ I visualised processed data with seaborn, used CatBoost gridsearch to tune catbo
 ## Approximate metrics:
 
 <img width="385" alt="image" src="https://github.com/A125X/Aeroclub-Challenge/assets/91656458/2f4775eb-8e6e-4da0-8127-d44313585765">
+
+Check presentation for more information.
