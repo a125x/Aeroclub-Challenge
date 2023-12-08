@@ -1,6 +1,6 @@
 # Aeroclub-Challenge
 
-I visualised processed data with seaborn, used CatBoost gridsearch to tune catboost model's hyperparameters and provided a solution to the challenge. 
+I visualised processed data with seaborn, used CatBoost gridsearch to tune catboost model's hyperparameters and provided a solution to the challenge as a part of RDX team. 
 
 ## Correlation matrix:
 
